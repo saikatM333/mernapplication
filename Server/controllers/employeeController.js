@@ -1,4 +1,4 @@
-const Employee = require('../models/Employee');
+const Employee = require('../model/employees');
 const multer = require('multer');
 const path = require('path');
 
