@@ -4,7 +4,7 @@
   "description": "Server-side of a MERN stack application",
   "main": "db.js",
   "scripts": {
-    "start": "node ../db.js",
+    "start": "node db.js",
     "dev": "nodemon db.js"
   },
   "dependencies": {
